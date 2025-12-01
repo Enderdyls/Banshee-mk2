@@ -1,2 +1,2 @@
-Disclaimer, I don't know how this works
-if you know please tell me
+Disclaimer, I don't know how this works.
+If you know please tell me.
